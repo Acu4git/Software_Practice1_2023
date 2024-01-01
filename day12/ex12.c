@@ -52,7 +52,7 @@ int isvaliddate(date_t d)
     static int daynum[]={0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     // date_t day229={d.year,2,29}, day301={d.year,3,1};
 
-    if(1 <= d.day && d.day <= daynum[d.month]) {
+    if(MINYEAR <= d.year && d.year <= MAXYEAR && 1 <= d.month && d.month <= 12 && 1 <= d.day && d.day <= daynum[d.month]) {
         return TRUE;
     } else {
         return FALSE;
