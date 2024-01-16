@@ -1,0 +1,16 @@
+/cDepartment of Electronics and Information Science
+
+/lOur department carries out attractive and exciting research in the areas of information engineering, electronic engineering as well as electrical engineering. We have been making progress in all of the research areas in order to realize and contribute to the advancement in our social convenience, and improvement of the quality of human life. In addition, we have been aiming at giving the highest quality of the education to students and researchers who wish to be an expert in the engineering and will play an important role in the development of technology.
+
+/c* History
+* Organization and Activities
+o Staff
+* Educational System
+o Bachelor course
+o Master course
+o Doctor course
+* Research
+o Links to Research Groups 
+
+/rwebmaster@dj.kit.ac.jp
+Last modified: Fri February 25 17:59:30 2005
