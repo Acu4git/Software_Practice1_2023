@@ -1,0 +1,16 @@
+%abcdefg&
+   {hijk lmn    opqr}
+"stu vw"
+                xyz
+
+%DIRNAME% = "~/Documents/kit/software_practice1/day14"
+
+int main() {
+    int tmp;
+    scanf("%d", &tmp);
+    char s[]= "Hello world.";
+    for(int i = 0; i < tmp; i++) {
+        printf("s\n", s);
+    }
+    return 0;
+}
